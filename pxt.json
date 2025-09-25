@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "maqueen": "github:ousiris/pxt-maqueen#8afdcdfc25f3c56acb7afbf63d30fcf413b85c94",
+        "maqueen": "github:ousiris/pxt-maqueen#d8f23e36c954b0ece8a4bc60204cd0b33163c226",
         "neopixel": "github:microsoft/pxt-neopixel#v0.7.6"
     },
     "files": [
