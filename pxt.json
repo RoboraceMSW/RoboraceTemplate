@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "maqueen": "github:ousiris/pxt-maqueen#d8f23e36c954b0ece8a4bc60204cd0b33163c226",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6",
+        "RemoteControlMapping": "github:RoboraceMSW/RemoteControlMapping#3b89367e6fa915f435fc413ca8911d7648771155"
     },
     "files": [
         "main.blocks",
@@ -17,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "8.0.16",
+        "target": "8.0.17",
         "targetId": "microbit"
     },
     "supportedTargets": [
